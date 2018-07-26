@@ -1,4 +1,4 @@
-# Trane-React-UI-App
+# Trane React App UI/UX 
 
 ![screencapture-localhost-3000-2018-07-26-12_45_04](https://user-images.githubusercontent.com/32858340/43291106-568b4a3c-90fe-11e8-9178-db4fdd64e6ca.jpg)
 
