@@ -1,6 +1,6 @@
 # Trane React App UI
 
-Front-end application that controls multiple HVAC units for an entire building, provides a variety of timed reports and scheduled maintenance for each individual unit.
+Front-end application that controls multiple HVAC units for an entire building, provides a variety of timed energy reports and scheduled maintenance for each individual unit.
 
 **Home Screen**
 
@@ -17,6 +17,8 @@ Front-end application that controls multiple HVAC units for an entire building, 
 ## Built With
 
 * [React](https://reactjs.org/) - Used to build the User Interface (UI)
+* [Java](https://docs.oracle.com/javaee/6/tutorial/doc/bnafd.html) - Used Java Servlet to serve data to the front-end in JSON format
+* [JSON](https://www.w3schools.com/js/js_json_intro.asp) - Data served to front-end in JSON format 
 * [HTML](https://www.w3.org/html/) - The markup language used
 * [CSS](https://www.w3.org/Style/CSS/learning.en.html) -  The style sheet language used
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The programming language used
