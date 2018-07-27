@@ -13,3 +13,10 @@ Front-end application that controls multiple HVAC units for an entire building, 
 **Control Screen**
 
 ![screencapture-localhost-3000-control-2018-07-26-18_06_02](https://user-images.githubusercontent.com/32858340/43291193-a1134d48-90fe-11e8-84ea-b1e3c204c211.jpg)
+
+## Built With
+
+* [React](https://reactjs.org/) - Used to build the User Interface (UI)
+* [HTML](https://www.w3.org/html/) - The markup language used
+* [CSS](https://www.w3.org/Style/CSS/learning.en.html) -  The style sheet language used
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The programming language used
