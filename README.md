@@ -1,4 +1,4 @@
-# Trane React App UI/UX 
+# Trane React App UI
 
 Front-end application that controls multiple HVAC units for an entire building, provides a variety of timed reports and scheduled maintenance for each individual unit.
 
